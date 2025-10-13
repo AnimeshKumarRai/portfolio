@@ -2,11 +2,6 @@
 
 A showcase of my work and projects.
 
-## Featured Projects
-
-- **[Project 1]** - Brief description and [link](https://github.com/username/project1)
-- **[Project 2]** - Brief description and [link](https://github.com/username/project2)
-- **[Project 3]** - Brief description and [link](https://github.com/username/project3)
 
 ## Technologies
 
