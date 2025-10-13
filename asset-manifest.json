@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.e6316691.css",
-    "main.js": "/static/js/main.b7fd098e.js",
+    "main.js": "/static/js/main.2dd8d8c5.js",
     "static/media/weather_map_websit.png": "/static/media/weather_map_websit.446cabe1405fb8ae1dc9.png",
     "static/media/thetraveldelight.png": "/static/media/thetraveldelight.4290966514255f9d54e7.png",
     "static/media/myimg.jpg": "/static/media/myimg.e5226dd33082ab8882ff.jpg",
@@ -11,14 +11,20 @@
     "static/media/tutorkendra.png": "/static/media/tutorkendra.ac556257976d9b45f1e0.png",
     "static/media/ai_chat_web_app.png": "/static/media/ai_chat_web_app.201cd3d6dbca58a804ef.png",
     "static/media/phishing-detector.png": "/static/media/phishing-detector.5a934cce0e74e9fd5672.png",
+    "static/media/number_ninja_web.png": "/static/media/number_ninja_web.42c5f7d77141646a9a32.png",
+    "static/media/imagebackend.jpg": "/static/media/imagebackend.8a6d9b963bff9468d535.jpg",
     "static/media/logo_black.svg": "/static/media/logo_black.7a3c3e9ab41b5f3a457a045909073c5c.svg",
+    "static/media/telegram_bot_media_downloader.png": "/static/media/telegram_bot_media_downloader.55fa2421238021f9ebb5.png",
+    "static/media/focusflow_web.png": "/static/media/focusflow_web.8e4923a5288748e3171b.png",
+    "static/media/flappy_bird_game.png": "/static/media/flappy_bird_game.047467e5fd56fbc90517.png",
+    "static/media/tic_tac_toe_game.png": "/static/media/tic_tac_toe_game.85c99efcddc7e3d7e22d.png",
     "static/media/logo_white.svg": "/static/media/logo_white.b866b928c28f7c3854a0f56722b4d5b1.svg",
     "index.html": "/index.html",
     "main.e6316691.css.map": "/static/css/main.e6316691.css.map",
-    "main.b7fd098e.js.map": "/static/js/main.b7fd098e.js.map"
+    "main.2dd8d8c5.js.map": "/static/js/main.2dd8d8c5.js.map"
   },
   "entrypoints": [
     "static/css/main.e6316691.css",
-    "static/js/main.b7fd098e.js"
+    "static/js/main.2dd8d8c5.js"
   ]
 }
