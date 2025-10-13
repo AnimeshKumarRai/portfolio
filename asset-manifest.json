@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e6316691.css",
+    "main.js": "/static/js/main.23b62ffc.js",
+    "static/media/weather_map_websit.png": "/static/media/weather_map_websit.446cabe1405fb8ae1dc9.png",
+    "static/media/thetraveldelight.png": "/static/media/thetraveldelight.4290966514255f9d54e7.png",
+    "static/media/myimg.jpg": "/static/media/myimg.e5226dd33082ab8882ff.jpg",
+    "static/media/gesture-controlled_virtual-mouse.png": "/static/media/gesture-controlled_virtual-mouse.7a7567f1124651bf8328.png",
+    "static/media/recipes_android_app.png": "/static/media/recipes_android_app.6a69175490bdc3fa551d.png",
+    "static/media/3D_geological_model_.png": "/static/media/3D_geological_model_.7dff60da8437b55a22e2.png",
+    "static/media/tutorkendra.png": "/static/media/tutorkendra.ac556257976d9b45f1e0.png",
+    "static/media/ai_chat_web_app.png": "/static/media/ai_chat_web_app.201cd3d6dbca58a804ef.png",
+    "static/media/phishing-detector.png": "/static/media/phishing-detector.5a934cce0e74e9fd5672.png",
+    "static/media/logo_black.svg": "/static/media/logo_black.7a3c3e9ab41b5f3a457a045909073c5c.svg",
+    "static/media/logo_white.svg": "/static/media/logo_white.b866b928c28f7c3854a0f56722b4d5b1.svg",
+    "index.html": "/index.html",
+    "main.e6316691.css.map": "/static/css/main.e6316691.css.map",
+    "main.23b62ffc.js.map": "/static/js/main.23b62ffc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6316691.css",
+    "static/js/main.23b62ffc.js"
+  ]
+}
